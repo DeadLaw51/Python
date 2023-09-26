@@ -7,3 +7,4 @@ kus = int(input("Введите с какого куста начать соби
 kus = kus -1
 sum_1 = int(mas[kus]+ mas[kus-1] + mas[kus + 1])
 print(sum_1)
+
